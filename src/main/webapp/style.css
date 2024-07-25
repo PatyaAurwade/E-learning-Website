@@ -1,0 +1,199 @@
+.companyimg {
+    margin-top: 7.5px;
+    margin-left: 25px;
+}
+
+td {
+    padding: 5%;
+}
+
+.std {
+    margin-left: 14cm;
+}
+
+.whatwedo {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.navbar {
+    background-color: rgb(61, 61, 61);
+    height: 60px;
+    text-align: center;
+    position: sticky;
+    overflow: hidden;
+}
+
+.navbar ul {
+    overflow: auto;
+    margin-left: 39.5%;
+    margin-top: 15px;
+    position: absolute;
+}
+
+.navbar li {
+    float: left;
+    list-style-type: none;
+    margin: 10px 10px;
+    text-align: center;
+}
+
+.navbar ul a {
+    padding: 3px 3px;
+    text-decoration: none;
+    color: white;
+    font-size: large;
+    height: 10px;
+    font-size: 140%;
+    font-weight: bold;
+}
+
+.navbar ul a:hover {
+    color: antiquewhite;
+}
+
+.data {
+    display: flex;
+    padding: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 0px;
+    background-color: rgb(17, 16, 16);
+    border-radius: 15px;
+    color: honeydew;
+}
+
+.data input {
+    width: 6cm;
+    padding: 12px;
+    height: 23px;
+    border-style: none;
+    border-radius: 15px;
+}
+
+.contact {
+    margin-left: 80px;
+}
+
+.office {
+    margin-left: 170px;
+    padding: 10px;
+}
+
+.writeus {
+    margin-left: 220px;
+    padding: 10px;
+}
+
+.whatsapp {
+    display: flex;
+    margin-left: 40px;
+}
+
+.mobno {
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 60px;
+    display: inline-block;
+    border-style: groove;
+}
+
+.gmail {
+    display: flex;
+    margin-right: 30px;
+}
+
+.gma {
+    display: inline-block;
+    color: aliceblue;
+    margin-left: 1560px;
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+}
+
+.cardbody-1 {
+    display: flex;
+}
+
+.cardbody-2 {
+    display: flex;
+}
+
+.photogallery {
+    text-align: center;
+}
+
+.card-1 {
+    display: grid;
+    margin-left: 100px;
+}
+
+.card-2 {
+    display: grid;
+    margin-left: 100px;
+}
+
+.card-3 {
+    display: grid;
+    margin-left: 100px;
+}
+
+.card-4 {
+    display: grid;
+    margin-left: 100px;
+}
+
+.card-5 {
+    display: grid;
+    margin-left: 100px;
+}
+
+.card-6 {
+    display: grid;
+    margin-left: 100px;
+}
+
+.card-7 {
+    display: grid;
+    margin-left: 100px;
+}
+
+.card-8 {
+    display: grid;
+    margin-left: 100px;
+}
+
+.Courses-explore {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.Admission {
+    text-align: center;
+}
+
+.Admission input {
+    width: 15cm;
+    height: 1cm;
+    border-radius: 7px;
+    padding: 10px;
+    border-color: darkgray;
+}
+
+.gender {
+    display: inline;
+}
+
+.gender input {
+    width: auto;
+    height: auto;
+}
+
+.modeofstudy {
+    display: inline-block;
+}
+
+.modeofstudy input {
+    width: auto;
+    height: auto;
+}
